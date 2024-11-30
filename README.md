@@ -1,5 +1,5 @@
-# projects
-A collection of past hackathon projects
+# Fairuz Jahan's Projects
+Collection of hackathon projects
 
 1) HealthBuddy: A web-application that helps users calculate Glomerular Filtration Rates (eGFR) and gain a general understanding of their kidney health.
    [https://github.com/fruityCode/webdev.git](https://github.com/fruityCode/webdev.git)
